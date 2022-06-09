@@ -13,8 +13,9 @@
   $ zip -r linebot_layer.zip python/
   ```
 - Run set_richmenu.py on your local PC
-  `$ python set_richmenu.py`
-
+  ```
+  $ python set_richmenu.py
+  ```
 
 ## AWS Lambda
 - Layers > Create layer

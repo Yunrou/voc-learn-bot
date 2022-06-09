@@ -3,7 +3,8 @@ layers
 crawl-dictionary.py
 
 # misc
-*.DS_Store*.__pycache__/
+*.DS_Store
+*.__pycache__/
 *.pyc
 *.py[cod]
 *$py.class
