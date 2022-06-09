@@ -19,16 +19,12 @@
 
 ## AWS Lambda
 ### Layers > Create layer
-- Name\n
-  linebot-layer
+- Name : linebot-layer
 - Upload a .zip file
-- Runtimes
-  Python 3.7, Python 3.8, Python 3.9
+- Runtimes : Python 3.7, Python 3.8, Python 3.9
 ### Function > Create function
-- Name
-  LineBot
-- Runtime
-  Python 3.9
+- Name : LineBot
+- Runtime : Python 3.9
 ### LineBot (in your function)
 - Layers > Add a layer > Custom layers > Choose "linebot-layer"
 - Configuration > Environment variables
@@ -37,40 +33,30 @@
 - Paste the codes & Deploy
 - Configuration > Permissions > Execution role
   - Click the role and it will navigate to AWS IAM console.
-  - Add permissions > Attach policies
-    Add AmazonDynamoDBFullAccess
-- If you want to monitor your logs 
-  Monitor > View logs in CloudWatch
+  - Add permissions > Attach policies > Add AmazonDynamoDBFullAccess
+- If you want to monitor your logs : Monitor > View logs in CloudWatch
 
 ## AWS API Gateway
 ### APIs > Create API > REST API / Build
-- API name
-  LineBotWebhook
+- API name : LineBotWebhook
 - Create API
 ### LineBotWebhook (in your API)
 - Actions > Create Method > POST (checked)
-  - Integration type
-    Lambda Function
+  - Integration type : Lambda Function
   - Use Lambda Proxy Integration (checked)
-  - Lambda Region
-    us-east-1 (all the regions in AWS services should be the same)
-  - Lambda Function
-    LineBot
+  - Lambda Region : us-east-1 (all the regions in AWS services should be the same)
+  - Lambda Function : LineBot
   - Use Default Timeout (checked)
   - Save
 - Actions > Deploy API
-  - Stage name
-    prod
+  - Stage name : prod
   - Deploy
-- Stages
-  Invoke URL: https://.....us-east-1.amazonaws.com/prod
-  (Copy & Paste to Webhook URL in LINE Developer > your LINE Bot > Messaging API)
+- Stages > Invoke URL: https://.....us-east-1.amazonaws.com/prod
+  
+  > (Copy & Paste to Webhook URL in LINE Developer > your LINE Bot > Messaging API)
 
 ## AWS DynamoDB
 ### Tables > Create table
-- Table name
-  LineBotUser
-- Partition key
-  LineID
-- Sort key (optional)
-  If you set this, you need to include it in get_item, delete_item, etc.
+- Table name : LineBotUser
+- Partition key : LineID
+- Sort key (optional) : If you set this, you need to include it in get_item, delete_item, etc.
