@@ -1,0 +1,79 @@
+{
+  "type": "bubble",
+  "size": "kilo",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "",
+        "color": "#ffffff",
+        "size": "xl",
+        "weight": "bold",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "",
+        "color": "#bbbbbb",
+        "size": "sm",
+        "wrap": true,
+        "margin": "sm"
+      },
+      {
+        "type": "text",
+        "text": "vocabulary.com",
+        "color": "#8397de",
+        "size": "md",
+        "wrap": true,
+        "margin": "md",
+        "action": {
+          "type": "uri",
+          "uri": "https://www.vocabulary.com/dictionary/"
+        }
+      },
+      {
+        "type": "text",
+        "text": "dictionary.cambridge.org",
+        "color": "#8397de",
+        "size": "md",
+        "wrap": true,
+        "margin": "md",
+        "action": {
+          "type": "uri",
+          "uri": "https://dictionary.cambridge.org/dictionary/english/"
+        }
+      },
+      {
+        "type": "text",
+        "text": "powerthesaurus.org",
+        "color": "#8397de",
+        "size": "md",
+        "wrap": true,
+        "margin": "md",
+        "action": {
+          "type": "uri",
+          "uri": "https://www.powerthesaurus.org/"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Next →",
+        "color": "#91bfb4",
+        "size": "lg",
+        "wrap": true,
+        "margin": "sm",
+        "action": {
+          "type": "message",
+          "label": "Next",
+          "text": "Next"
+        },
+        "align": "end",
+        "style": "normal",
+        "weight": "bold"
+      }
+    ],
+    "backgroundColor": "#333333"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "type": "bubble",
+  "size": "kilo",
+  "hero": {
+    "type": "image",
+    "url": "https://i.pinimg.com/564x/0a/46/0d/0a460da5058ebc439a8a840acd204750.jpg",
+    "size": "full",
+    "aspectRatio": "5:3",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Bubu English",
+        "weight": "bold",
+        "size": "xl",
+        "color": "#ffffff"
+      },
+      {
+        "type": "text",
+        "text": "Greetings!\nLet's learn TOEFL ESSENTIAL words and improve your THESAURUS of different topics!",
+        "color": "#bbbbbb",
+        "size": "sm",
+        "wrap": true,
+        "margin": "sm"
+      },
+      {
+        "type": "text",
+        "text": "After you pick up a new word, you can practice making sentences!",
+        "color": "#999999",
+        "size": "xs",
+        "wrap": true,
+        "margin": "md"
+      }
+    ],
+    "height": "165px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "Essential",
+          "text": "Essential"
+        },
+        "color": "#91bfb4",
+        "height": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "Thesaurus",
+          "text": "Thesaurus"
+        },
+        "color": "#91bfb4",
+        "height": "sm"
+      }
+    ],
+    "paddingTop": "none",
+    "paddingBottom": "sm"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#333333"
+    },
+    "footer": {
+      "backgroundColor": "#333333"
+    }
+  }
+}

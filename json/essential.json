@@ -1,0 +1,159 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "nano",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Essential 200",
+            "color": "#ffffff",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Essential200",
+          "text": "Essential200"
+        },
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "0%",
+            "color": "#bbbbbb",
+            "align": "start",
+            "size": "xs",
+            "gravity": "center",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "width": "0%",
+                "backgroundColor": "#bbbbbb",
+                "height": "6px"
+              }
+            ],
+            "backgroundColor": "#000000",
+            "height": "6px",
+            "margin": "sm"
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Essential200",
+          "text": "Essential200"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "paddingTop": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#27ACB2"
+        },
+        "footer": {
+          "backgroundColor": "#333333",
+          "separator": false
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "nano",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Essential 500",
+            "color": "#ffffff",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Essential200",
+          "text": "Essential200"
+        },
+        "spacing": "md",
+        "paddingAll": "12px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "0%",
+            "color": "#bbbbbb",
+            "align": "start",
+            "size": "xs",
+            "gravity": "center",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "width": "0%",
+                "backgroundColor": "#bbbbbb",
+                "height": "6px"
+              }
+            ],
+            "backgroundColor": "#000000",
+            "height": "6px",
+            "margin": "sm"
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Essential500",
+          "text": "Essential500"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "paddingTop": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#FF6B6E"
+        },
+        "footer": {
+          "backgroundColor": "#333333",
+          "separator": false
+        }
+      }
+    }
+  ]
+}

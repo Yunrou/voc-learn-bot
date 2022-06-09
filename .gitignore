@@ -1,0 +1,13 @@
+content
+layers
+crawl-dictionary.py
+
+# misc
+*.DS_Store*.__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

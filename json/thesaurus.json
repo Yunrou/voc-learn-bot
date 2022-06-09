@@ -1,0 +1,1085 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "nano",
+      "hero": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXN0cm9ub215fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+        "size": "full",
+        "aspectRatio": "3:2",
+        "aspectMode": "cover",
+        "action": {
+          "type": "message",
+          "label": "Astronomy",
+          "text": "Astronomy"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Astronomy",
+            "color": "#dddddd",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Astronomy",
+          "text": "Astronomy"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "height": "48px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "0%",
+            "color": "#bbbbbb",
+            "align": "start",
+            "size": "xs",
+            "gravity": "center",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "width": "0%",
+                "backgroundColor": "#bbbbbb",
+                "height": "6px"
+              }
+            ],
+            "backgroundColor": "#000000",
+            "height": "6px",
+            "margin": "sm"
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Astronomy",
+          "text": "Astronomy"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "paddingTop": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#333333"
+        },
+        "footer": {
+          "backgroundColor": "#333333",
+          "separator": false
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "nano",
+      "hero": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1594050753831-ebf4b3b52af7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGVvbG9neXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+        "size": "full",
+        "aspectRatio": "3:2",
+        "aspectMode": "cover",
+        "action": {
+          "type": "message",
+          "label": "Archeology & Anthropology",
+          "text": "Archeology & Anthropology"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Archeology & Anthropology",
+            "color": "#dddddd",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Archeology & Anthropology",
+          "text": "Archeology & Anthropology"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "height": "48px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "0%",
+            "color": "#bbbbbb",
+            "align": "start",
+            "size": "xs",
+            "gravity": "center",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "width": "0%",
+                "backgroundColor": "#bbbbbb",
+                "height": "6px"
+              }
+            ],
+            "backgroundColor": "#000000",
+            "height": "6px",
+            "margin": "sm"
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Archeology & Anthropology",
+          "text": "Archeology & Anthropology"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "paddingTop": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#333333"
+        },
+        "footer": {
+          "backgroundColor": "#333333",
+          "separator": false
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "nano",
+      "hero": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1605721911519-3dfeb3be25e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGFydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+        "size": "full",
+        "aspectRatio": "3:2",
+        "aspectMode": "cover",
+        "action": {
+          "type": "message",
+          "label": "Art",
+          "text": "Art"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Art",
+            "color": "#dddddd",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Art",
+          "text": "Art"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "height": "48px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "0%",
+            "color": "#bbbbbb",
+            "align": "start",
+            "size": "xs",
+            "gravity": "center",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "width": "0%",
+                "backgroundColor": "#bbbbbb",
+                "height": "6px"
+              }
+            ],
+            "backgroundColor": "#000000",
+            "height": "6px",
+            "margin": "sm"
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Art",
+          "text": "Art"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "paddingTop": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#333333"
+        },
+        "footer": {
+          "backgroundColor": "#333333",
+          "separator": false
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "nano",
+      "hero": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1527342360990-4ba15b337215?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym90YW55fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+        "size": "full",
+        "aspectRatio": "3:2",
+        "aspectMode": "cover",
+        "action": {
+          "type": "message",
+          "label": "Biology & Botany",
+          "text": "Biology & Botany"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Biology & Botany",
+            "color": "#dddddd",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Biology & Botany",
+          "text": "Biology & Botany"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "height": "48px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "0%",
+            "color": "#bbbbbb",
+            "align": "start",
+            "size": "xs",
+            "gravity": "center",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "width": "0%",
+                "backgroundColor": "#bbbbbb",
+                "height": "6px"
+              }
+            ],
+            "backgroundColor": "#000000",
+            "height": "6px",
+            "margin": "sm"
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Biology & Botany",
+          "text": "Biology & Botany"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "paddingTop": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#333333"
+        },
+        "footer": {
+          "backgroundColor": "#333333",
+          "separator": false
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "nano",
+      "hero": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1613271752699-ede48a285196?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzd8fGNoZW1pc3RyeXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+        "size": "full",
+        "aspectRatio": "3:2",
+        "aspectMode": "cover",
+        "action": {
+          "type": "message",
+          "label": "Chemistry",
+          "text": "Chemistry"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Chemistry",
+            "color": "#dddddd",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Chemistry",
+          "text": "Chemistry"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "height": "48px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "0%",
+            "color": "#bbbbbb",
+            "align": "start",
+            "size": "xs",
+            "gravity": "center",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "width": "0%",
+                "backgroundColor": "#bbbbbb",
+                "height": "6px"
+              }
+            ],
+            "backgroundColor": "#000000",
+            "height": "6px",
+            "margin": "sm"
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Chemistry",
+          "text": "Chemistry"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "paddingTop": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#333333"
+        },
+        "footer": {
+          "backgroundColor": "#333333",
+          "separator": false
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "nano",
+      "hero": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1570472476938-079059312db6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZWFydGglMjBzY2llbmNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+        "size": "full",
+        "aspectRatio": "3:2",
+        "aspectMode": "cover",
+        "action": {
+          "type": "message",
+          "label": "Earth Science",
+          "text": "Earth Science"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Earth Science",
+            "color": "#dddddd",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Earth Science",
+          "text": "Earth Science"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "height": "48px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "0%",
+            "color": "#bbbbbb",
+            "align": "start",
+            "size": "xs",
+            "gravity": "center",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "width": "0%",
+                "backgroundColor": "#bbbbbb",
+                "height": "6px"
+              }
+            ],
+            "backgroundColor": "#000000",
+            "height": "6px",
+            "margin": "sm"
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Earth Science",
+          "text": "Earth Science"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "paddingTop": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#333333"
+        },
+        "footer": {
+          "backgroundColor": "#333333",
+          "separator": false
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "nano",
+      "hero": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZWNvbm9taWNzJTIwYnVzaW5lc3N8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60",
+        "size": "full",
+        "aspectRatio": "3:2",
+        "aspectMode": "cover",
+        "action": {
+          "type": "message",
+          "label": "Economics & Business",
+          "text": "Economics & Business"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Economics & Business",
+            "color": "#dddddd",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Economics & Business",
+          "text": "Economics & Business"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "height": "48px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "0%",
+            "color": "#bbbbbb",
+            "align": "start",
+            "size": "xs",
+            "gravity": "center",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "width": "0%",
+                "backgroundColor": "#bbbbbb",
+                "height": "6px"
+              }
+            ],
+            "backgroundColor": "#000000",
+            "height": "6px",
+            "margin": "sm"
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Economics & Business",
+          "text": "Economics & Business"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "paddingTop": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#333333"
+        },
+        "footer": {
+          "backgroundColor": "#333333",
+          "separator": false
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "nano",
+      "hero": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1595123550384-b81222e23cf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bGl0ZXJhdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+        "size": "full",
+        "aspectRatio": "3:2",
+        "aspectMode": "cover",
+        "action": {
+          "type": "message",
+          "label": "Literature",
+          "text": "Literature"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Literature",
+            "color": "#dddddd",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Literature",
+          "text": "Literature"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "height": "48px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "0%",
+            "color": "#bbbbbb",
+            "align": "start",
+            "size": "xs",
+            "gravity": "center",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "width": "0%",
+                "backgroundColor": "#bbbbbb",
+                "height": "6px"
+              }
+            ],
+            "backgroundColor": "#000000",
+            "height": "6px",
+            "margin": "sm"
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Literature",
+          "text": "Literature"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "paddingTop": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#333333"
+        },
+        "footer": {
+          "backgroundColor": "#333333",
+          "separator": false
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "nano",
+      "hero": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1638202993928-7267aad84c31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fG1lZGljaW5lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+        "size": "full",
+        "aspectRatio": "3:2",
+        "aspectMode": "cover",
+        "action": {
+          "type": "message",
+          "label": "Medicine",
+          "text": "Medicine"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Medicine",
+            "color": "#dddddd",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Medicine",
+          "text": "Medicine"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "height": "48px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "0%",
+            "color": "#bbbbbb",
+            "align": "start",
+            "size": "xs",
+            "gravity": "center",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "width": "0%",
+                "backgroundColor": "#bbbbbb",
+                "height": "6px"
+              }
+            ],
+            "backgroundColor": "#000000",
+            "height": "6px",
+            "margin": "sm"
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Medicine",
+          "text": "Medicine"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "paddingTop": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#333333"
+        },
+        "footer": {
+          "backgroundColor": "#333333",
+          "separator": false
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "nano",
+      "hero": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGh5c2ljc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+        "size": "full",
+        "aspectRatio": "3:2",
+        "aspectMode": "cover",
+        "action": {
+          "type": "message",
+          "label": "Physics",
+          "text": "Physics"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Physics",
+            "color": "#dddddd",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Physics",
+          "text": "Physics"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "height": "48px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "0%",
+            "color": "#bbbbbb",
+            "align": "start",
+            "size": "xs",
+            "gravity": "center",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "width": "0%",
+                "backgroundColor": "#bbbbbb",
+                "height": "6px"
+              }
+            ],
+            "backgroundColor": "#000000",
+            "height": "6px",
+            "margin": "sm"
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Physics",
+          "text": "Physics"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "paddingTop": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#333333"
+        },
+        "footer": {
+          "backgroundColor": "#333333",
+          "separator": false
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "nano",
+      "hero": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1591622180726-ad1a92e95c9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Nnw5MDIwMzkzNHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=700&q=60",
+        "size": "full",
+        "aspectRatio": "3:2",
+        "aspectMode": "cover",
+        "action": {
+          "type": "message",
+          "label": "Politics & Law",
+          "text": "Politics & Law"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Politics & Law",
+            "color": "#dddddd",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Politics & Law",
+          "text": "Politics & Law"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "height": "48px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "0%",
+            "color": "#bbbbbb",
+            "align": "start",
+            "size": "xs",
+            "gravity": "center",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "width": "0%",
+                "backgroundColor": "#bbbbbb",
+                "height": "6px"
+              }
+            ],
+            "backgroundColor": "#000000",
+            "height": "6px",
+            "margin": "sm"
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Politics & Law",
+          "text": "Politics & Law"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "paddingTop": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#333333"
+        },
+        "footer": {
+          "backgroundColor": "#333333",
+          "separator": false
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "nano",
+      "hero": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1551085254-e96b210db58a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmlyZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+        "size": "full",
+        "aspectRatio": "3:2",
+        "aspectMode": "cover",
+        "action": {
+          "type": "message",
+          "label": "Zoology",
+          "text": "Zoology"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Zoology",
+            "color": "#dddddd",
+            "size": "sm",
+            "wrap": true
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Zoology",
+          "text": "Zoology"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "height": "48px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "0%",
+            "color": "#bbbbbb",
+            "align": "start",
+            "size": "xs",
+            "gravity": "center",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "width": "0%",
+                "backgroundColor": "#bbbbbb",
+                "height": "6px"
+              }
+            ],
+            "backgroundColor": "#000000",
+            "height": "6px",
+            "margin": "sm"
+          }
+        ],
+        "action": {
+          "type": "message",
+          "label": "Zoology",
+          "text": "Zoology"
+        },
+        "spacing": "md",
+        "paddingAll": "12px",
+        "paddingTop": "none"
+      },
+      "styles": {
+        "body": {
+          "backgroundColor": "#333333"
+        },
+        "footer": {
+          "backgroundColor": "#333333",
+          "separator": false
+        }
+      }
+    }
+  ]
+}
